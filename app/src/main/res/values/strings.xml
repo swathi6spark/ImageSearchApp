@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ImageApp</string>
+    <string name="photographer">Photographer</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="likes">Likes</string>
+    <string name="image">Image</string>
+    <string name="title">Title</string>
+    <string name="desc">Description</string>
+    <string name="views">Views</string>
+    <string name="n_a">N/A</string>
+    <string-array name="imgsrc">
+        <item>Imgur</item>
+        <item>UnSplash</item>
+    </string-array>
+</resources>
